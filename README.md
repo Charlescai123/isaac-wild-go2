@@ -172,7 +172,7 @@ Please star or cite below papers if you find this repo helpful 🙏
 ```
 @misc{cai2025runtimelearningquadrupedrobots,
       title={Runtime Learning of Quadruped Robots in Wild Environments}, 
-      author={Yihao Cai and Yanbing Mao and Lui Sha and Hongpeng Cao and Marco Caccamo},
+      author={Yihao Cai and Yanbing Mao and Lui Sha and Hongpeng Cao and Marco Caccamo and Honghao Wei},
       year={2025},
       eprint={2503.04794},
       archivePrefix={arXiv},
