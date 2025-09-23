@@ -1,4 +1,4 @@
-# NeurIPS 2025: Experiment 2: Isaac-Wild-Go2
+# NeurIPS 2025: Real-DRL: Experiment 2: Isaac-Wild-Go2
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-3.2.6-red?logo=pytorch)
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-2.11.0-orange?logo=tensorflow)
