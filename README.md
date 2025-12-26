@@ -195,6 +195,16 @@ journal = {ACM Trans. Cyber-Phys. Syst.},
 keywords = {Runtime Learning, Safety, Phy-DRL, Real-time Patch, Unknown Unknowns, Sim2Real Gap}
 }
 ```
+```
+@inproceedings{
+mao2025realdrl,
+title={Real-{DRL}: Teach and Learn at Runtime},
+author={Yanbing Mao and Yihao Cai and Lui Sha},
+booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems},
+year={2025},
+url={https://openreview.net/forum?id=gXZlZAeqay}
+}
+```
 
 ---
 
